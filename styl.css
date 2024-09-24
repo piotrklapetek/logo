@@ -1,0 +1,10 @@
+div#logo{
+    background-color: rgb(66, 240, 89);
+    color:rgb(1, 253, 241);
+    font: 66px sans-serif;
+    text-shadow: rgb(236, 63, 199) 4px 4px 8px;
+    border-spacing: 25px;
+    border-style: dashed;
+    text-align: center;
+    letter-spacing: 50px;
+}
